@@ -8,9 +8,11 @@ Welcome to Camtasia's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Introduction to Camtasia 2020
+   :caption: Camtasia 2020 - Tutorial
 
    introduction
+   installation
+   activation
 
 
 
